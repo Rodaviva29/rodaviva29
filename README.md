@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodaviva</h1>
 <h3 align="center">I love to play Minecraft and Pokémon GO. Caution, if you wanna work with me you need to know that I'm addicted to automation and organization .</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodaviva29" alt="rodaviva29" /></a> </p>
-
 - 🔭 I’m currently working on **CP Tools & PokéLX**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
