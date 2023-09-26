@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodaviva</h1>
-<h3 align="center">I love to play Minecraft and Pokémon GO. Caution, if you wanna work with me you need to know that I'm addicted to automation and organization .</h3>
+<h3 align="center">I love to play Minecraft and Pokémon GO. If you wanna work with me you need to know that I'm addicted to automation and organization .</h3>
 
 - 🔭 I’m currently working on **CP Tools & PokéLX**
 
