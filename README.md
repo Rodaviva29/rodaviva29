@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rodaviva29"><img src="https://skillicons.dev/icons?i=twitter"> </a> 
-<a href="https://instagram.com/chung_jf"><img src="https://skillicons.dev/icons?i=instagram"> </a> 
+  <a href="https://twitter.com/rodaviva29"><img src="https://skillicons.dev/icons?i=twitter" style="margin: 0; padding: 0;"></a>
+  <a href="https://instagram.com/chung_jf"><img src="https://skillicons.dev/icons?i=instagram" style="margin: 0; padding: 0;"></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
