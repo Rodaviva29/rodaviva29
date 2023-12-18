@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rodaviva29@gmail.com**
 
-- ⚡ Fun fact **If your life gives you lemons you make lemonade!**
+- ⚡ Fun fact: **If your life gives you lemons you make lemonade!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
