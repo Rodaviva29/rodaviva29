@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodaviva</h1>
 <h3 align="center">I love to play Minecraft and Pokémon GO. If you wanna work with me you need to know that I'm addicted to automation and organization .</h3>
 
-- 🔭 I’m currently working on **CP Tools & PokéLX**
+- 🔭 I’m currently working on some cool integrations with Discord
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
@@ -14,6 +14,10 @@
 <a href="https://twitter.com/rodaviva29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodaviva29" height="30" width="40" /></a>
 <a href="https://instagram.com/chung_jf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chung_jf" height="30" width="40" /></a>
 </p>
+
+Support me on KoFi:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rodaviva)
 
 ## Languages and Tools
 
