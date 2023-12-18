@@ -15,10 +15,12 @@
 <a href="https://instagram.com/chung_jf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chung_jf" height="30" width="40" /></a>
 </p>
 
-Support me on KoFi:
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=linux,vscode,github,mongodb,bots,python,js,nodejs"> </a> 
+
+</p>
+
+## Support me on KoFi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rodaviva)
-
-## Languages and Tools
-
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=linux,vscode,github,mongodb,bots,python,js,nodejs"> </a> </p>
